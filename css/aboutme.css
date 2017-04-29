@@ -1,0 +1,15 @@
+.person-img img{
+   display: inline-block;
+}
+.intro-content-left img{
+    width: 60%;
+    margin-top: 2%;
+    margin-left: 15%;
+}
+.xunyicao-imgs{
+    position: relative;
+    overflow: hidden;
+}
+.xunyicao-imgs .xunyicao-pics{
+   position: absolute;
+}
